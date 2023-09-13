@@ -1,5 +1,5 @@
 # 💫 About Me:
-⚡ Me Myself Digvijay A.K.A DJ<br>🔭 I’m currently working on Web Development<br>🤝 Completeing my DSA in Java<br>🌱 I’m currently learning Android Development <br>💬  I'm always looking for new challenges and opportunities <br>       to collaborate with others, so feel free to <br>       reach out and connect with me!<br>
+⚡ Me Myself Digvijay A.K.A DJ<br>🔭 I’m currently working on Web Development<br>🤝 Completing my DSA in Java<br>🌱 I’m currently learning Android Development <br>💬  I'm always looking for new challenges and opportunities <br>       to collaborate with others, so feel free to <br>       reach out and connect with me!<br>
 
 
 ## 🌐 Socials:
